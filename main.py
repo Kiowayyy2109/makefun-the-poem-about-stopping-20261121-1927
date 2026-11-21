@@ -1,8 +1,11 @@
 """Entry for make.fun: The poem about stopping.
 
 "The Unsent": writes one short poem about agency -- the power to stop
-and to stay -- to /output/entry.txt. Python 3.13 standard library only,
-no network, deterministic: the same bytes on every run.
+and to stay -- to /output/entry.txt. The poem is 130 characters: a thumb
+held above Send until anger cools, and the unsent message as the one
+message written entirely by its author -- stopping as authorship.
+Python 3.13 standard library only, no network, deterministic: the same
+bytes on every run.
 """
 
 import os
